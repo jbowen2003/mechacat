@@ -1,4 +1,6 @@
-#This program allows the user to enter a number while the program tries to guess the number
+#This program prompts the user to guess a number between 1-100
+#the prgram then tells the user if the guess is too high or low
+#this continues until the user guesses the correct number
 
 
 import random
